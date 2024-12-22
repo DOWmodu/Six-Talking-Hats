@@ -5,7 +5,7 @@ import openai
 # SETUP
 ###############################################################################
 # 1) Provide your OpenAI API key (or load from Streamlit secrets / environment)
-openai.api_key = "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "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"
 
 # 2) Page Config for Streamlit
 st.set_page_config(
